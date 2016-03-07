@@ -34,6 +34,10 @@ Develop a type system for statically detecting common mistakes in the writing
 of variable names, e.g., storing a response in a variable `response` but mistyping
 the response variable as `reponse`.
 
+## Open Definition (O)
+
+Support Ctrl-clicking (or whatever key + clicking) an identifier, like the name of an output port, to open the file and position the editor to the definition of such identifier, like the definition of that output port.
+
 ## Autocompletion (O)
 
 Develop autocompletion helpers, for example including:
