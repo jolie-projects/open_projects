@@ -38,6 +38,19 @@ the response variable as `reponse`.
 
 Support Ctrl-clicking (or whatever key + clicking) an identifier, like the name of an output port, to open the file and position the editor to the definition of such identifier, like the definition of that output port.
 
+## Inline Documentation (O)
+
+Support invoking the definition of a type or a port/interface (when standing above its identifier) as an inline small window to recall the programmer of it.
+For example, it should be possible to have a quick glance at the definition of an output port without having to open its file.
+
+## Program Structure (O)
+
+Provide a structure overview of the current Jolie program, showing on a side panel its input and output ports and the possibility to open the interfaces.
+
+## Value Scaffolding (O)
+
+Make a shortcut that, given a type name, inserts code for defining a value that respects that type.
+
 ## Autocompletion (O)
 
 Develop autocompletion helpers, for example including:
