@@ -59,6 +59,17 @@ Develop autocompletion helpers, for example including:
 - Include files
 - Interfaces
 
+## Text Formatter (O)
+Implementing an automatic text formatter
+
+## Connection with Registries (O)
+Automatic connection to microservice registries like https://sourceforge.net/projects/soaregistry/
+in order to retrieve available services and resources like microservices
+
+## Package definition (O)
+- creation of a microservice package
+- allowing the definition of microservice system topology (which services must be embedded and which not, introduction of aggregators if necessary, generation of surfaces if necessary)
+
 ## Runtime helpers (O)
 
 Develop shortcuts and GUI for starting/stopping a Jolie service from inside the
