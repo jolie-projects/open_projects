@@ -59,12 +59,12 @@ Develop autocompletion helpers, for example including:
 - Include files
 - Interfaces
 
-## Text Formatter (O)
-Implementing an automatic text formatter
+## Code Formatter (O)
+Implement an automatic code formatter. See [`gofmt`](https://golang.org/cmd/gofmt/) for the Go language.
 
 ## Connection with Registries (O)
-Automatic connection to microservice registries like https://sourceforge.net/projects/soaregistry/
-in order to retrieve available services and resources like microservices
+Automatic connection to microservice registries like [https://sourceforge.net/projects/soaregistry/](https://sourceforge.net/projects/soaregistry/)
+in order to retrieve available services.
 
 ## Package definition (O)
 - creation of a microservice package
