@@ -59,7 +59,7 @@ Develop autocompletion helpers, for example including:
 - Include files
 - Interfaces
 
-## Code Formatter (O)
+## Code Formatter (WIP)
 Implement an automatic code formatter. See [`gofmt`](https://golang.org/cmd/gofmt/) for the Go language.
 
 ## Connection with Registries (O)
