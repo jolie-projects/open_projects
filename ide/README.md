@@ -79,3 +79,13 @@ IDE, and capture standard output and error.
 
 Develop a step-by-step debugger for Jolie. This task depends on the completion
 of the current work of @mawolf on instrumenting Jolie behaviours first.
+
+## Versioning (O)
+
+Development of a connection to versioning tools svn gitHub maven
+
+##Integration with exsting tools 
+
+Developing the integration with tool such as jolie2java, wsdl2jolie
+
+
